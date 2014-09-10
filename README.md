@@ -1,5 +1,5 @@
-tecladovirtualgingancl
-======================
+Teclado Virtual Ginga NCL
+=========================
 
 Teclado Virtual Alfanumérico - NCLua
 
